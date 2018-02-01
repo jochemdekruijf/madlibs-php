@@ -28,11 +28,19 @@ font-size: 20px;
 input{
 margin: 10px;
 width: 150px;
-height: 30px;
+height: 20px;
+font-size: 15px;
 }
 form{
  background-color:silver;
  width: 700px;
  height: 470px;
  font-size: 20px;
+}
+main{
+ background-color:silver;
+ width: 700px;
+ height: 470px;
+ font-size: 20px;
+
 }

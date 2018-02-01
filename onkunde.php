@@ -13,15 +13,15 @@
 		</ul>
 	 
 	</nav>
- <form action="result.php" method="POST">
+ <form action="result2.php" method="POST">
  <h1><b>Er heerst paniek!</b></h1>
-Wat zou je graag willen kunnen?<input type="text" name="vraag1"><br>
-Met welke persoon kan je goed opschieten?<input type="text" name="vraag2"><br>
-Wat is je favoriete getal?<input type="text" name="vraag3"><br>
-Wat heb je altijd bij je als je op vakantie gaat?<input type="text" name="vraag4"><br>
-Wat is je beste persoonlijke eigenschap?<input type="text" name="vraag5"><br>
-Wat is je slechste persoonlijke eigenschap?<input type="text" name="vraag6"><br>
-Wat is het ergste wat je kan overkomen?<input type="text" name="vraag7"><br>
+Wat zou je graag willen kunnen?<input type="text" name="kunnen"><br>
+Met welke persoon kan je goed opschieten?<input type="text" name="opschieten"><br>
+Wat is je favoriete getal?<input type="text" name="getal"><br>
+Wat heb je altijd bij je als je op vakantie gaat?<input type="text" name="vakantie"><br>
+Wat is je beste persoonlijke eigenschap?<input type="text" name="eigenschap"><br>
+Wat is je slechste persoonlijke eigenschap?<input type="text" name="slechste"><br>
+Wat is het ergste wat je kan overkomen?<input type="text" name="overkomen"><br>
   <button>verstuur</button>
  </form>
 </body>
