@@ -25,6 +25,9 @@ width: 200px;
 height: 50px;
 font-size: 20px;
 }
+body{
+ background-color:#a3de8a;
+}
 input{
 margin: 10px;
 width: 150px;
@@ -33,14 +36,15 @@ font-size: 15px;
 }
 form{
  background-color:silver;
- width: 700px;
+ width: 670px;
  height: 470px;
  font-size: 20px;
+ padding: 15px;
 }
 main{
  background-color:silver;
- width: 700px;
+ width: 660px;
  height: 470px;
  font-size: 20px;
-
+ padding: 20px;
 }

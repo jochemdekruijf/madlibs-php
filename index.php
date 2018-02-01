@@ -15,6 +15,7 @@
 	</nav>
  <form action="result.php" method="POST">
  		<h1><b>Er heerst pankie!</b></h1>
+ 		
   Welk dier zou je nooit als huisdier willen hebben? <input type="text" name="dier"><br>
   Wie is de belangrijkste persoon in je leven?<input type="text" name="persoon"><br>
   In welk land zou je willen wonen?<input type="text" name="land"><br>
