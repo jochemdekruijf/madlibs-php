@@ -5,7 +5,7 @@ $getal = $_POST["getal"];
 $vakantie = $_POST["vakantie"];
 $eigenschap = $_POST["eigenschap"];
 $slechste = $_POST["slechste"];
-$overlkomen = $_POST["overkomen"];
+$overkomen = $_POST["overkomen"];
  ?>
 <!DOCTYPE html>
 <html lang="nl">
@@ -25,7 +25,7 @@ $overlkomen = $_POST["overkomen"];
  </nav>
  <main>
  	<h1><b>Onkunde</b></h1>
-<p>Er zijn veel mensen die niet kunnen <?=$kunnen?>. Neem nou maar <?=$opschieten?>. Zelfs met de hulp van een <?=$vakantie?> of zelfs <?=$getal?> kan <?=$opschieten?> niet <?=$kunnen?>. Dat heeft niet te maken met gebrek aan <?=$eigenschap?>, maar met een te veel aan <?=$slechste?>. te veel <?=$slechste?> leidt tot <?=$overkomen?> als je wilt <?=$kunnen?>. Helaas voor <?=$opschieten?>.
+<p>Er zijn veel mensen die niet kunnen <?=$kunnen?>. Neem nou maar <?=$opschieten?>. Zelfs met de hulp van een <?=$vakantie?> of zelfs <?=$getal?> kan <?=$opschieten?> niet <?=$kunnen?>. Dat heeft niet te maken met gebrek aan <?=$eigenschap?>, maar met een te veel aan <?=$slechste?>. te veel <?=$slechste?> leidt tot <?= $overkomen ?> en dat is niet goed als je wilt <?=$kunnen?>. Helaas voor <?=$opschieten?>.
 </main>
 </p>
 </body>
