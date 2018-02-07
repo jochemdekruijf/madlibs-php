@@ -6,13 +6,13 @@
 	<link rel="stylesheet" type="text/css" href="madlibs.css">
 </head>
 <header>
-	<img src="logo.png" alt="logo">
+	<img src="echtelogo.png" alt="logo">
 </header>
 <body>
 	<nav>
 		<ul>
-			<li><a href="index.php">Er heerst paniek</a></li>
-			<li><a href="onkunde.php">Onkunde</a></li>
+			<li><a href="index.php"><b>Er heerst paniek</b></a></li>
+			<li><a href="onkunde.php"><b>Onkunde</b></a></li>
 		</ul>
 	 
 	</nav>
